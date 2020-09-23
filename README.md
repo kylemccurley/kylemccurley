@@ -19,5 +19,5 @@
 
 ## Current Projects
   - [PullUp Mobile Application](http://get-pullup.com)
-    - ![PullUp Parrty Demo](header.png)
+    - ![PullUp Parrty Demo](party.png)
     - An all-inclusive event finder developed with React Native.
