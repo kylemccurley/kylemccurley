@@ -45,7 +45,7 @@
   ### Pull Up - An Intuitive Event Finder for College Students
    ![PullUp Parrty Demo](party.jpg)
    - [Link to Launch Site](http://get-pullup.com)
-   <details>
+   - <details>
       <summary>Tech Stack</summary>
       - AWS Amplify
       - AWS Cloud9
