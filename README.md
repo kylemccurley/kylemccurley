@@ -2,19 +2,20 @@
 
 <details><summary>Skills</summary>
 <br>
-- Javascript (Advanced)
-  <br>
-- HTML
-  <br>
-- CSS
-  <br>
-- Ruby on Rails
-  <br>
-- Ruby
-  <br>
-- AWS Services
-  <br>
-- GraphQL
+  <details><summary>Frameworks</summary>
+    - Ruby on Rails
+    - Sinatra
+    - React
+    - React Native
+  </details>
+  <details><summary>Languages</summary>
+    - Javascript
+    - HTML
+    - CSS
+    - Ruby
+    - SQL
+    - GraphQL
+  </details>
 </details>
 
 ## Current Projects
