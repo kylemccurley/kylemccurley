@@ -17,7 +17,5 @@
 - GraphQL
 </details>
 
-<details><summary>Current Projects</summary>
   - [http://example.com/](PullUp)
     - An all-inclusive event finder developed with React Native.
-</details>
