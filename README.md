@@ -39,6 +39,7 @@
   </details>
 
 # Current Projects
+::warning
   ### Pull Up - An Event Finder for College Students
   #### Chief Technology Officer
    <details>
@@ -53,7 +54,7 @@
       <br>
       - React Native
    </details>
-   
+:::
    ### Stockly -  Real-Time Stock Analysis Web Application
    <details><summary>Tech Stack</summary>
     - Sinatra
