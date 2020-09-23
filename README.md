@@ -8,6 +8,8 @@
     - React
     <br>
     - React Native
+    <br>
+    - Bootstrap
   </details>
   <details><summary>Languages</summary>
     - Javascript
