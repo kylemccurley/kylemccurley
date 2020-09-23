@@ -56,7 +56,7 @@
       <br>
       - React Native
    </details>
-   ![Mobile Prototype](overview.png)
+   !(Mobile Prototype)[overview.png]
    
    - [Link to Launch Site](http://get-pullup.com)
     
