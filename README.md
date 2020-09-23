@@ -17,5 +17,5 @@
 - GraphQL
 </details>
 
-  - [http://example.com/](PullUp)
+  - [Text](http://google.com)
     - An all-inclusive event finder developed with React Native.
