@@ -42,7 +42,7 @@
 
 # Education
 ## Launch School - An Online School for Software Engineers
-
+![Launch School]()
 
 # Current Projects
   ### Pull Up - An Event Finder for College Students
