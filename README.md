@@ -24,9 +24,11 @@
     <br>
     - GraphQL
   </details>
-  <details><summary>Backend Management Systems</summary>
+  <details><summary>Database Management Systems</summary>
     - PostgreSQL
+     <br>
     - MySQL
+    <br>
     - SQLite
   </details>
 </details>
