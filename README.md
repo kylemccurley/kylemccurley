@@ -31,6 +31,12 @@
     <br>
     - SQLite
   </details>
+  <details>
+    <summary>Other Proficient Software Systems</summary>
+    - Adobe XD
+    - AWS Services
+    - CodePen
+  </details>
 </details>
 
 ## Current Projects
