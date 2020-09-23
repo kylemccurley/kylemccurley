@@ -34,7 +34,9 @@
   <details>
     <summary>Other Proficient Software Systems</summary>
     - Adobe XD
+    <br>
     - AWS Services
+    <br>
     - CodePen
   </details>
 </details>
