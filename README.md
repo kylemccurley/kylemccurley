@@ -56,6 +56,6 @@
       <br>
       - React Native
    </details>
-[Link to Launch Site](http://get-pullup.com)
+   [Link](http://get-pullup.com/)
 
     
