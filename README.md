@@ -43,6 +43,6 @@
 
 ## Current Projects
   ### Pull Up - An Intuitive Event Finder for College Students
-    - [PullUp Mobile Application](http://get-pullup.com)
+   - [PullUp Mobile Application](http://get-pullup.com)
       ![PullUp Parrty Demo](party.jpg)
     - An all-inclusive event finder developed with React Native.
