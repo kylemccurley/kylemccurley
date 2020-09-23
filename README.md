@@ -4,8 +4,11 @@
 <br>
   <details><summary>Frameworks</summary>
     - Ruby on Rails
+    <br>
     - Sinatra
+    <br>
     - React
+    <br>
     - React Native
   </details>
   <details><summary>Languages</summary>
