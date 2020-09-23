@@ -53,7 +53,8 @@
       <br>
       - React Native
    </details>
-### Stockly -  Real-Time Stock Analysis Web Application
+   
+   ### Stockly -  Real-Time Stock Analysis Web Application
    <details>
     - Sinatra
     - FinnHub API
