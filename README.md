@@ -48,9 +48,13 @@
      <details>
       <summary>Tech Stack</summary>
       - AWS Amplify
+      <br>
       - AWS Cloud9
+      <br>
       - AWS S3
+      <br>
       - AWS Mobile Hub
+      <br>
       - React Native
-    </details>
+      </details>
     
