@@ -44,7 +44,7 @@
 ## Current Projects
   ### Pull Up - An Intuitive Event Finder for College Students
   #### Chief Technology Officer
-   ![PullUp Parrty Demo](party.jpg)
+   ![Mobile Prototype1](party.jpg)
    - [Link to Launch Site](http://get-pullup.com)
      <details>
       <summary>Tech Stack</summary>
