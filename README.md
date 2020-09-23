@@ -40,6 +40,10 @@
     - CodePen
   </details>
 
+# Education
+## Launch School - An Online School for Software Engineers
+
+
 # Current Projects
   ### Pull Up - An Event Finder for College Students
   #### Chief Technology Officer
