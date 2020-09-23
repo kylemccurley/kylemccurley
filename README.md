@@ -10,10 +10,15 @@
   </details>
   <details><summary>Languages</summary>
     - Javascript
+    <br>
     - HTML
+    <br>
     - CSS
+    <br>
     - Ruby
+    <br>
     - SQL
+    <br>
     - GraphQL
   </details>
 </details>
