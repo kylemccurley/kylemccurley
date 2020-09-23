@@ -24,6 +24,11 @@
     <br>
     - GraphQL
   </details>
+  <details><summary>Backend Management Systems</summary>
+    - PostgreSQL
+    - MySQL
+    - SQLite
+  </details>
 </details>
 
 ## Current Projects
