@@ -18,6 +18,6 @@
 </details>
 
 <details><summary>Current Projects</summary>
-  - (http://get-pullup.com/)[PullUp]
+  - [http://get-pullup.com/](PullUp)
     - An all-inclusive event finder developed with React Native.
 </details>
