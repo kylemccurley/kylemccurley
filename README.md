@@ -2,8 +2,12 @@
 
 <details><summary>Skills</summary>
 <br>
-This is how you dropdown.
-  <br>
-  Other
+- Javascript (Advanced)
+- HTML
+- CSS
+- Ruby on Rails
+- Ruby
+- AWS Services
+- GraphQL
 </details>
 
