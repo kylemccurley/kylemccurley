@@ -55,7 +55,7 @@
    </details>
    
    ### Stockly -  Real-Time Stock Analysis Web Application
-   <details>
+   <details><summary>Tech Stack</summary>
     - Sinatra
     - FinnHub API
     - HTML
