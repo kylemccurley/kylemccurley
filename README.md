@@ -7,9 +7,13 @@
 - HTML
   <br>
 - CSS
+  <br>
 - Ruby on Rails
+  <br>
 - Ruby
+  <br>
 - AWS Services
+  <br>
 - GraphQL
 </details>
 
