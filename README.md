@@ -1,7 +1,5 @@
 ![Hi, I'm Kyle. A Software Engineer](header.png "My Profile")
 
-<details><summary>Skills</summary>
-<br>
   <details><summary>Frameworks</summary>
     - Ruby on Rails
     <br>
@@ -39,7 +37,6 @@
     <br>
     - CodePen
   </details>
-</details>
 
 ## Current Projects
   ### Pull Up - An Intuitive Event Finder for College Students
