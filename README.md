@@ -9,7 +9,7 @@
     <br>
     - React Native
     <br>
-    - Bootstrap
+    - Boot Strap
   </details>
   <details><summary>Languages</summary>
     - Javascript
