@@ -39,7 +39,7 @@
   </details>
 
 # Current Projects
-::warning
+:::warning
   ### Pull Up - An Event Finder for College Students
   #### Chief Technology Officer
    <details>
