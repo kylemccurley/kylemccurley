@@ -39,7 +39,7 @@
   </details>
 
 # Current Projects
-  ### Pull Up - An Intuitive Event Finder for College Students
+  ### Pull Up - An Event Finder for College Students
   #### Chief Technology Officer
    <details>
      <summary>Tech Stack</summary>
