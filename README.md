@@ -38,7 +38,7 @@
     - CodePen
   </details>
 
-## Current Projects
+# Current Projects
   ### Pull Up - An Intuitive Event Finder for College Students
   #### Chief Technology Officer
    <details>
