@@ -56,6 +56,5 @@
       <br>
       - React Native
    </details>
-- [http://get-pullup.com/](Link)
 
     
