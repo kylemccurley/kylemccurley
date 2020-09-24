@@ -43,6 +43,7 @@
 # Education
 ## Launch School - An Online School for Software Engineers
 ![Launch School](launch.png)
+Launch School is an online school focused on the mastery of foundational knowledge of software engineering. This is largely accomplished through rigorous assessments, quizzes and 1-on-1 interviews. This is a multi-year program designed specifically for individuals seeking to launch a multi-decade career in software engineering.
 
 # Current Projects
   ### Pull Up - An Event Finder for College Students
