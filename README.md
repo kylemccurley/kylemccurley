@@ -64,8 +64,12 @@
    ### Stockly -  Real-Time Stock Analysis Web Application
    <details><summary>Tech Stack</summary>
     - Sinatra
+    <br>
     - FinnHub API
+    <br>
     - HTML
+    <br>
     - CSS
+    <br>
     - Embedded Ruby
    </details>
